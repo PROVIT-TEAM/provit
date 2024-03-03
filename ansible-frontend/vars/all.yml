@@ -1,0 +1,5 @@
+default_user : ec2-user
+default_group : ec2-user
+
+frontend_src_path : /home/ec2-user/provit-frontend/build
+frontend_dest_path : /usr/share/nginx

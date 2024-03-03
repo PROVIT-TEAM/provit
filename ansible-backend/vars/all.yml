@@ -1,0 +1,5 @@
+default_user : ec2-user
+default_group : ec2-user
+
+backend_src_path : /home/ec2-user/provit-backend/build/libs/provit-backend-0.0.1-SNAPSHOT.jar
+backend_dest_path : /home/ec2-user
