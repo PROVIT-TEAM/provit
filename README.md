@@ -1,2 +1,4 @@
 ### CI/CD 관련 
-ansible
+
+- Jenkins
+- Ansible
